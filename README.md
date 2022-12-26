@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dtuininga
 - 👀 I’m interested in 3D printing, toymaking, sci-fi and video games
-- 🌱 I’m currently learning Java, but I'm not sure what to do with it yet. I'm excited to discover the possibilities! 
+- 🌱 I'm excited to discover the possibilities that Java coding can lead to! 
 - 📫 How to reach me- best is Email: "don.tuininga@gmail.com"
 - (My current full-time job has me working overnights, so I'm usually asleep from around 6am-2pm)
 
